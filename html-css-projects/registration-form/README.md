@@ -5,4 +5,6 @@ The backend has no validation or logging — it simply accepts the form submissi
 ---
 
 ## 🚀 Live Demo
-- **Frontend (Form):** [GitHub Pages Link](https://github.com/kdscoder1997/Personal-Projects/blob/main/html-css-projects/registration-form/index.html)
+- **Frontend (Form):** [GitHub Pages Link](https://kdscoder1997.github.io/Personal-Projects/html-css-projects/registration-form/index.html)
+- **Thank You Page:** [thanks.html](https://kdscoder1997.github.io/Personal-Projects/thanks.html)
+- **Backend Endpoint (Vercel):** `https://<your-vercel-project>.vercel.app/api/register`
