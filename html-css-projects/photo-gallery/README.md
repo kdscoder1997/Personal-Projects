@@ -19,3 +19,4 @@ Build a photo gallery that:
 - **Live Demo:** [View on GitHub Pages](https://kdscoder1997.github.io/Personal-Projects/html-css-projects/photo-gallery/)
 
 ---
+
