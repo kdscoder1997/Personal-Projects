@@ -11,4 +11,6 @@ Recreate a Rothko-inspired painting by stacking colored rectangles using `<div>`
 
 
 ## 🚀 Live Demo
-- **Frontend (Form):** [GitHub Pages Link](https://kdscoder1997.github.io/Personal-Projects/html-css-projects/rothko-painting/index.html)
+- **Frontend (Form):** [GitHub Pages Link](https://kdscoder1997.github.io/Personal-Projects/html-css-projects/rothko-painting/)
+## 🗂 Source Code
+- [rothko-painting folder](https://github.com/kdscoder1997/Personal-Projects/tree/main/html-css-projects/rothko-painting)
